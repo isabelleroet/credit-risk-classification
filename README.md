@@ -33,7 +33,7 @@ Follow DRY (Don’t Repeat Yourself) principles, creating maintainable and reusa
 Use concise logic and creative engineering where possible.  
 ```
 
-## Code Comments (10 points)
+## Code Comments  
 ```To receive all points, your code must:
 Be well commented with concise, relevant notes that other developers can understand.
 ```
